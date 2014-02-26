@@ -1,0 +1,13 @@
+/*
+Page styling for generic game housing.
+*/
+/* 
+    Created on : 17-Feb-2014, 11:59:28
+    Author     : Josh Evans
+    Site       : http://digitaljev.com 
+*/
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+}
